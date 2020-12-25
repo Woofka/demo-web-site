@@ -1,2 +1,8 @@
 # demo-web-site
-This web site was developed for educational purposes
+Данный сайт был разработан в рамках обучения в университете
+
+## Развертывание
+Развертывание производилось на моем сервере в среде Docker.  
+Однако использовался не тот конфиг nginx и docker-compose,
+что находятся в данном репозитории,
+а были доработаны конфиги [защищенного сервера nginx](https://github.com/Woofka/nginx).
