@@ -141,7 +141,6 @@ img.block-side-img {
 
 /* Catalog */
 .card-catalog {
-    width: 18rem;
     transition: box-shadow 0.3s ease-in-out;
 }
 
